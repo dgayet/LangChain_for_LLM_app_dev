@@ -42,3 +42,7 @@ Thumbs.db
 # 06 Cache #
 ############
 __pycache__
+
+# 07 Keys #
+###########
+.env
